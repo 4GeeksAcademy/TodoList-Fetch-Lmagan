@@ -1,4 +1,35 @@
+.notebook {
+    background-color: white;
+    border: 2px solid brown;
+    border-radius: 8px;
+    padding: 16px;
+    width: 600px;
+    margin: 0 auto;
+}
 
+.notebook-list {
+    
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.notebook-item {
+    border: 1px,brown;
+    padding: 8px;
+    font-size: 25px;
+    margin-top: 3px;
+}
+
+
+.marked {
+    background-color: green;
+    border-radius: 15px;
+}
+
+li{
+    text-transform: capitalize;
+}
 /* 
 
     You can write your own styles here...
